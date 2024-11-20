@@ -7,3 +7,8 @@ We’re a team of engineers working our way through a masters in Artificial Inte
 ## Projects 🚀
 
 * [Real Estate Analyzer](https://github.com/theneuralnetworth/RealEstateAnalyzer)
+
+
+## Boards 🚀
+
+* [Challenge2]([https://github.com/orgs/theneuralnetworth/projects/1])
