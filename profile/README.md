@@ -11,4 +11,4 @@ We’re a team of engineers working our way through a masters in Artificial Inte
 
 ## Boards 🚀
 
-* [Challenge2]([https://github.com/orgs/theneuralnetworth/projects/1])
+* [Challenge2](https://github.com/orgs/theneuralnetworth/projects/1)
